@@ -19,3 +19,5 @@ This runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Example output
+
+![Example output](https://raw.githubusercontent.com/mediaupstream/react-json-resume/master/preview.png)
