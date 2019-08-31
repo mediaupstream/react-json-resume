@@ -1,6 +1,6 @@
 # React JSON resume
 
-A react app that generates a PDF from a [JSON resume](http://jsonresume.org))
+A React app that generates a PDF from a [JSON resume](http://jsonresume.org))
 
 ### How to use?
 
