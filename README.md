@@ -1,8 +1,8 @@
-## json resume pdf
+# React JSON resume
 
-A react app that generates a PDF from JSON (following the [JSONresume schema](http://jsonresume.org))
+A react app that generates a PDF from a [JSON resume](http://jsonresume.org))
 
-### Install and usage
+### How to use?
 
 Clone the project and install dependencies
 
@@ -18,4 +18,4 @@ yarn start
 This runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Example Output
+### Example output
